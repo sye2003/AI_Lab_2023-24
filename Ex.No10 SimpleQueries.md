@@ -51,12 +51,8 @@ course(X,dept(havefun)).
 course(bk301,dept(havefun)).
 
 ### Output:
-likes(steve,X):-
-easycourse(X).
-hard(sciencecourse).
-easycourse(X):-
-course(X,dept(havefun)).
-course(bk301,dept(havefun)).
+![image](https://github.com/sye2003/AI_Lab_2023-24/assets/146318899/3104187a-f6e9-4409-a838-8dfe43f03df4)
+
 
 ### Task 3:
 Consider the statement <br> 
