@@ -56,6 +56,12 @@ app=gr.Interface(fn=diabetes,inputs=['number','number','number','number','number
 
 ### Output:
 1. Data set
+2. Accuracy
+
+
+
+
+
 
 
 
